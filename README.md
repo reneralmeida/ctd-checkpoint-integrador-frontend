@@ -6,12 +6,14 @@ Aprendemos a conectar essas tecnologias afim de conhecer como as camadas convers
 Link da hospedagem Heroku:
 https://ctd-checkpoint-integrador-frontend.vercel.app/
 
-Backend:https://github.com/rodrigo-brasil/ctd-checkpoint-integrador-backend
+Backend:
+https://github.com/rodrigo-brasil/ctd-checkpoint-integrador-backend
 
 Link da hospedagem AWS:
 https://unsecureconnectionrequired-integrador-ctd.netlify.app/
 
-Backend:https://github.com/reneralmeida/ctd-checkpoint-integrador-backend
+Backend:
+https://github.com/reneralmeida/ctd-checkpoint-integrador-backend
 
 
 Devido a ausência de SSL nas hospedagens tier free da Amazon EC2, para visualizar nosso site é necessário permitir conteúdo inseguro. No Chrome, clique no cadeado ao lado da URL, selecione a última opção e permita conteúdo inseguro. No Firefox, clique no cadeado, selecione a primeira opção e habilite a permissão de conteúdo inseguro.
