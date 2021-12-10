@@ -4,13 +4,11 @@ Aprendemos a conectar essas tecnologias afim de conhecer como as camadas convers
 
 Link da hospedagem Heroku:
 https://ctd-checkpoint-integrador-frontend.vercel.app/
-
 Backend:
 https://github.com/rodrigo-brasil/ctd-checkpoint-integrador-backend
 
 Link da hospedagem AWS:
 https://unsecureconnectionrequired-integrador-ctd.netlify.app/
-
 Backend:
 https://github.com/reneralmeida/ctd-checkpoint-integrador-backend
 
